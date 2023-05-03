@@ -5,4 +5,4 @@ Final project for Deep Learning independent study at CUNY Lehman. A few DQN Agen
 ## Continuous Mountain Car Agent<br>
 - beats classic control game Mountain Car with a continuous action space (COMING SOON)<br>
 ## Acrobot Agent<br>
-- beats classic control game Acrobot with a discrete action space (COMING SOON)<BR
+- beats classic control game Acrobot with a discrete action space (COMING SOON)<br>
