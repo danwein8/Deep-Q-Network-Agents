@@ -6,6 +6,6 @@ Final project for Deep Learning independent study at CUNY Lehman. A few DQN Agen
 - beats classic control game Acrobot with a discrete action space <br>
 ## CartPole Agent <br>
 - beats classic control game CartPole with a discrete action space. <br>
-###Info
+### Info
 - The DNQ Agents can only train on environments with a discreet action space, not a continuous action space.
 - Action space is the range of moves you can make as the player.
